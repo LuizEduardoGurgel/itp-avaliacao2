@@ -42,7 +42,7 @@ Entradas: jogador 1 = `Ana`, jogador 2 = `Bruno`, partidas = `2`.
 - Jogada em posição já ocupada → **esperado:** "Posicao ja ocupada!" e a vez do mesmo jogador é mantida.
 
 ## Vídeo
-Link da apresentação no YouTube: LINK
+Link da apresentação no YouTube: https://www.youtube.com/watch?v=Z5EtyqSoYBA
 
 ## Referências
 - Material das aulas 6 a 11 da disciplina (matrizes, tipos de dados, strings, memória, ponteiros e alocação dinâmica).
